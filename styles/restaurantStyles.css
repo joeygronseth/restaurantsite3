@@ -1,0 +1,52 @@
+/*
+Created by: Joey Gronseth
+Date created: Dec 4, 2018
+Most recent revision: Dec 11, 2018
+*/
+
+header, footer {
+	text-align: center;
+	color: black;
+}
+
+body {
+	font-family: arial, helvetica, sans-serif;
+	color: #0d1f2d;
+	margin: 0 auto
+}
+h1 {
+	font-family: "Times New Roman", Times, serif;
+}
+
+nav {
+			border-top: thin #5b7d87 solid;
+			border-bottom: thin #5b7d87 solid;
+			padding-top: 0px;
+			padding-bottom: 0px;
+					}
+nav a {
+	color: #fef9ff;
+	text-align: center;
+	margin: 0px, 20px, 0px, 20px;
+	width: 100px;
+	
+}
+nav .btn {
+				background-color: #5b7d87;
+				color: #fef9ff;
+				
+}
+nav .btn:hover {
+				font-weight: bold;
+		}				
+nav a:visited {
+	color: #87cefa;
+}
+
+nav a:hover {
+	font-weight: bold;
+}
+nav a:active {
+	text-decoration: none;
+}
+
